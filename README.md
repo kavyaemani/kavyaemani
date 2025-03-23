@@ -1,16 +1,16 @@
 ### Hi there 👋
 
 ### 👨‍💻 About Me :
-- I am a passionate **Data Science and Analytics Enthusiast** with a keen interest in machine learning, data-driven decision making, and solving complex problems using data. My goal is to leverage my skills in data 
-  science to contribute to impactful projects and create value through analytics.
-
+- I am a passionate **Data Science and Analytics Enthusiast** with a keen interest in machine learning, data-driven decision making, and solving complex problems using data.
+- My goal is to leverage my skills in data science to contribute to impactful projects and create value through analytics.
 - 🎓 Master's student at Northwestern University, majoring in Machine Learning and Data Science.
 - 🧑‍💻 Former Data Analyst at Analytic Edge Pvt Ltd, which was later acquired by C5i.
 - 🎓 Graduated with a degree in Computer Science and Engineering from SMVITM, Karnataka, India. However, my journey into data science began when I completed a Data 
-     Science course from Jigsaw Academy. This course sparked my interest in analytics and machine learning, leading me to further specialize in the field. My engineering 
-     background has provided me with a solid foundation in problem-solving and algorithms, which has been invaluable in my current studies and work in data science.
+     Science course from Jigsaw Academy.
+  - This course sparked my interest in analytics and machine learning, leading me to further specialize in the field.
+  - My engineering background has provided me with a solid foundation in problem-solving and algorithms, which has been invaluable in my current studies and work in data science.
   
-📍 How to reach me: <a href="https://www.linkedin.com/in/kavyahb"><img src="https://logospng.org/download/linkedin/logo-linkedin-4096.png" width="40" style="vertical-align:middle; padding-right:8px;" /> LinkedIn</a>
+📍 How to reach me: [LinkedIn](https://www.linkedin.com/in/kavyahb)
 
 ---
 ### 🛠 Languages and Tools:
