@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ## 👨‍💻 About Me :
-I am a passionate Data Science and Analytics Enthusiast with a keen interest in machine learning, data-driven decision making, and solving complex problems using data. My goal is to leverage my skills in data science to contribute to impactful projects and create value through analytics.
+I am a passionate **Data Science and Analytics Enthusiast** with a keen interest in machine learning, data-driven decision making, and solving complex problems using data. My goal is to leverage my skills in data science to contribute to impactful projects and create value through analytics.
 
 - 🎓 Master's student at Northwestern University, majoring in Machine Learning and Data Science.
 - 🧑‍💻 Former Data Analyst at Analytic Edge Pvt Ltd, which was later acquired by C5i.
