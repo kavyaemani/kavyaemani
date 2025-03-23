@@ -1,4 +1,4 @@
-# Hi there 👋
+## Hi there 👋
 
 ## 👨‍💻 About Me :
 I am a Data Science and Analytics Enthusiast, currently living in the USA.
@@ -8,12 +8,10 @@ I am a Data Science and Analytics Enthusiast, currently living in the USA.
 - 🎓 Graduated with a degree in Computer Science and Engineering from SMVITM, Karnataka, India. However, my journey into data science began when I completed a Data 
      Science course from Jigsaw Academy. This course sparked my interest in analytics and machine learning, leading me to further specialize in the field. My engineering 
      background has provided me with a solid foundation in problem-solving and algorithms, which has been invaluable in my current studies and work in data science.
-
 📍 How to reach me:
    <a href="https://www.linkedin.com/in/kavyahb"><img src="https://logospng.org/download/linkedin/logo-linkedin-4096.png" width="40" style="vertical-align:middle; padding-right:8px;" /> LinkedIn</a>
 
 ---
-
 ## 🛠 Languages and Tools:
 - <img src="https://logohistory.net/wp-content/uploads/2023/06/Python-Emblem.png" width="30" style="vertical-align:middle; padding-right:8px;" /> [Python](https://www.python.org/)
 - <img src="https://image.pngaaa.com/93/1393093-middle.png" width="30" style="vertical-align:middle; padding-right:8px;" /> [R](https://www.r-project.org/)
