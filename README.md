@@ -1,7 +1,8 @@
-## Hi there 👋
+### Hi there 👋
 
-## 👨‍💻 About Me :
-I am a passionate **Data Science and Analytics Enthusiast** with a keen interest in machine learning, data-driven decision making, and solving complex problems using data. My goal is to leverage my skills in data science to contribute to impactful projects and create value through analytics.
+### 👨‍💻 About Me :
+- I am a passionate **Data Science and Analytics Enthusiast** with a keen interest in machine learning, data-driven decision making, and solving complex problems using data. My goal is to leverage my skills in data 
+  science to contribute to impactful projects and create value through analytics.
 
 - 🎓 Master's student at Northwestern University, majoring in Machine Learning and Data Science.
 - 🧑‍💻 Former Data Analyst at Analytic Edge Pvt Ltd, which was later acquired by C5i.
@@ -12,7 +13,7 @@ I am a passionate **Data Science and Analytics Enthusiast** with a keen interest
 📍 How to reach me: <a href="https://www.linkedin.com/in/kavyahb"><img src="https://logospng.org/download/linkedin/logo-linkedin-4096.png" width="40" style="vertical-align:middle; padding-right:8px;" /> LinkedIn</a>
 
 ---
-## 🛠 Languages and Tools:
+### 🛠 Languages and Tools:
 - <img src="https://logohistory.net/wp-content/uploads/2023/06/Python-Emblem.png" width="30" style="vertical-align:middle; padding-right:8px;" /> [Python](https://www.python.org/)
 - <img src="https://image.pngaaa.com/93/1393093-middle.png" width="30" style="vertical-align:middle; padding-right:8px;" /> [R](https://www.r-project.org/)
 - <img src="https://d1.awsstatic.com/china/hp/partners/tableau-LOGO-new02.5c999da7245fd3cb2ad15cde4bf90d0432b626ef.png" width="30" style="vertical-align:middle; padding-right:8px;" /> [Tableau](https://www.tableau.com/)
